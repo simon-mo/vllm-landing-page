@@ -404,7 +404,7 @@ ${installer} install https://github.com/vllm-project/vllm/releases/download/v\${
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground text-base">
-                    Explore vLLM's performance benchmarks and comparisons
+                    Explore vLLM&apos;s performance benchmarks and comparisons
                   </p>
                   <Link
                     href="https://perf.vllm.ai"
@@ -425,7 +425,7 @@ ${installer} install https://github.com/vllm-project/vllm/releases/download/v\${
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground text-base">
-                    See what's coming next and our development plans
+                    See what&apos;s coming next and our development plans
                   </p>
                   <Link
                     href="https://roadmap.vllm.ai"
